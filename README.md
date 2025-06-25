@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👯 I’m looking to collaborate on **Anything in web development**
+- 👯 I’m looking to collaborate on **Anything in development**
 
 - 📫 How to reach me **subhamoffi@gmail.com**
 
